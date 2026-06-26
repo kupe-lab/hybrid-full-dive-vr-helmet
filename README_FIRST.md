@@ -8,7 +8,7 @@
 
 Привет! 
 
-Меня зовут [Ваше Имя / Никнейм], я ученик одной из московских школ и, как и миллионы геймеров по всему миру, я искренне влюблен в идею полного погружения в виртуальную реальность. Наверняка многие из вас смотрели культовое аниме *Sword Art Online* и помнят легендарный шлем *NerveGear*. Но что, если перенести его из разряда чистой научной фантастики на рельсы реальной физики и нейробиологии? 
+Меня зовут Павленко Даниил/kupe-lab, я ученик одной из московских школ и, как и миллионы геймеров по всему миру, я искренне влюблен в идею полного погружения в виртуальную реальность. Наверняка многие из вас смотрели культовое аниме *Sword Art Online* и помнят легендарный шлем *NerveGear*. Но что, если перенести его из разряда чистой научной фантастики на рельсы реальной физики и нейробиологии? 
 
 Задавшись вопросом «А как бы такое устройство могло работать в реальности без опасного чипирования мозга?», я провел масштабное инженерное исследование. В качестве напарника и ассистента я привлек продвинутый искусственный интеллект. Шаг за шагом мы разбирали законы электродинамики, анатомию черепа, квантовую физику и оптимизацию данных, пытаясь обойти фундаментальные ограничения природы. 
 
@@ -24,7 +24,7 @@
 
 Hello world!
 
-My name is [Your Name / Nickname], I am a school student from Moscow, and like millions of gamers worldwide, I am deeply fascinated by the idea of full-dive virtual reality. Many of you have probably watched the cult anime *Sword Art Online* and remember the legendary *NerveGear* helmet. But what if we take it out of pure sci-fi and ground it in real-world physics and neuroscience?
+My name is Pavlenko Daniil/kupe-lab, I am a school student from Moscow, and like millions of gamers worldwide, I am deeply fascinated by the idea of full-dive virtual reality. Many of you have probably watched the cult anime *Sword Art Online* and remember the legendary *NerveGear* helmet. But what if we take it out of pure sci-fi and ground it in real-world physics and neuroscience?
 
 Driven by the question, "How could such a device work in reality without hazardous brain implants?", I conducted a large-scale engineering research sprint. I brought in an advanced AI as my co-pilot and research assistant. Step by step, we broke down electrodynamics, skull anatomy, quantum physics, and data optimization, attempting to bypass the fundamental barriers of nature.
 
